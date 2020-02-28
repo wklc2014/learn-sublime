@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+import React from 'react';
+import propTypes from 'prop-types';
+
+function ${1}(props) {
+
+  const { } = props;
+
+  return (
+    <div>
+
+    </div>
+  )
+}
+
+${1}.propTypes = {
+
+}
+
+${1}.defaultProps = {
+
+}
+
+export default ${1};
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>r-cls-func</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
