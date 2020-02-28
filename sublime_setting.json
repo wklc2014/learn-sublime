@@ -1,0 +1,29 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Breakers.sublime-color-scheme",
+  "ensure_newline_at_eof_on_save": true,
+  "font_options": ["gdi"],
+"theme_font_options": ["gdi"],
+"dpi_scale": 1.0,
+"font_face": "YaHei Consolas Hybrid",
+  "font_size": 11,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "line_padding_bottom": 2,
+  "line_padding_top": 2,
+  "lp_bold_folder_labels": true,
+  "lp_highlight_active_sidebar_row": true,
+  "lp_mouse_wheel_switches_tabs": true,
+  "lp_use_folder_icon2": true,
+  "lp_use_group_icon1": true,
+  "lp_use_sidebar_active_row_style3": true,
+  "lp_use_tab_dirty_icon2": true,
+  "lp_use_tab_style2": true,
+  "tab_size": 2,
+  "theme": "LP3.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": false
+}
