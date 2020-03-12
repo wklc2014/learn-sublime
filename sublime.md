@@ -1,4 +1,3 @@
-
 # sublime text 配置
 
 # official website
@@ -104,4 +103,11 @@ https://packagecontrol.io/packages/Theme%20-%20LP
 
 + SublimeTmpl
 快速生成文件模板
+
+
+## markdown
+
++ MarkDown Editing
+
+
 
